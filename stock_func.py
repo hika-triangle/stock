@@ -23,6 +23,8 @@ def parse_args():
     parser.add_argument('--md', default=10, help='How many days are averaged', type=int)
     
     return parser.parse_args()
+    
+    test
 '''
 
 class Stock:
